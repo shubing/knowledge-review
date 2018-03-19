@@ -1,0 +1,10 @@
+1、service
+2、三级缓存
+3、多线程
+4、binder机制
+5、application、activity的启动过程
+6、内存泄漏及优化
+7、异常处理
+8、kotlin了解
+9、
+
